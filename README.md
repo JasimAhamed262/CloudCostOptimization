@@ -1,7 +1,7 @@
 Probelm Statement:
 
 
-Unmanaged Elastic Block Store (EBS) snapshots often accumulate over time. These snapshots incur ongoing storage costs, especially in large-scale environments or older accounts where manual cleanup is often overlooked. This leads to unnecessary storage expenditure, which can rapidly increase total cloud bills.
+Unmanaged Elastic Block Store (EBS) snapshots often accumulate over time. These snapshots incur ongoing storage costs, especially in large scale environments or older accounts where manual cleanup is often overlooked. This leads to unnecessary storage expenditure, which can rapidly increase total cloud bills.
 
 Solution:
 
